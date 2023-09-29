@@ -39,10 +39,9 @@ body {
 
 .word {
     margin:auto;
-    width:80%;
     margin-left:40px;
     margin-top:20px;
-    
+    text-align:center;
 }
 
 
@@ -104,8 +103,7 @@ body {
 
     .word {
         margin:auto;
-        width:45%;
-        margin-right: 190px;
+        text-align: center;
         
     }
 }
@@ -124,8 +122,7 @@ body {
 
     .word {
         margin:auto;
-        width:25%;
-        margin-left:520px;
+        text-align: center;
         
     }
 }
